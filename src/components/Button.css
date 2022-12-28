@@ -1,0 +1,18 @@
+.butten-wrapper{
+    height: 40px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 24px;
+    background-color: rgb(20, 71, 71);
+    color: white;
+    flex: 1;
+
+    margin: 4px;
+    border-radius: 20px;
+
+}
+.clear{
+    grid-column: 2/3;
+  }
+  
